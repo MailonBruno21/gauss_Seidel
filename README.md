@@ -1,9 +1,7 @@
 # gauss_Seidel
 
-    Algoritmo em C para a resolução 
-  de sistemas lineares usando o
-  Método Numérico de Gauss-Seidel
-  
+    Algoritmo em C para a resolução de sistemas lineares usando o Método Numérico de Gauss-Seidel
+ 
   São usadas 3 regras para o critério de convergencia
   
   Critério das Linhas
